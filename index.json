@@ -3,6 +3,11 @@
   "repo": "pytest-randomly",
   "versions": [
     {
+      "commit": "50de0961ad3479901a153a4a89ff58ca7898b550",
+      "tag": "4.0.1",
+      "parsed_at": "2026-11-22T05:37:16.926743+00:00"
+    },
+    {
       "commit": "35dcf0a5df9f41d57a44cc01e1eec594af23ff89",
       "tag": "",
       "parsed_at": "2026-10-11T02:24:11.687305+00:00"
