@@ -75,6 +75,41 @@
       ],
       "ast": [
         "aggregate/ast/50de0961ad3479901a153a4a89ff58ca7898b550/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/50de0961ad3479901a153a4a89ff58ca7898b550.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "importlib-metadata",
+          "ecosystem": "PYPI",
+          "version": "3.6",
+          "githubOrg": "python",
+          "githubRepo": "importlib_metadata",
+          "githubUrl": "https://github.com/python/importlib_metadata",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "9.2.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "ae1d0ff57b8bd4252da9ade7353523ac0ac73281",
+          "githubTag": "9.2.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "numpy",
+          "ecosystem": "PYPI",
+          "version": "2.5.5",
+          "githubOrg": "numpy",
+          "githubRepo": "numpy",
+          "githubCommit": "afcbc6d21a88a7b59c5bfe115198e24ed51b3dae",
+          "githubTag": "v2.5.5",
+          "githubUrl": "https://github.com/numpy/numpy",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/numpy/random/mtrand.pyi"
+        }
       ]
     }
   ],
