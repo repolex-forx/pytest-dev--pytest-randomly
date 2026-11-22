@@ -110,7 +110,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/numpy/random/mtrand.pyi"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/50de0961ad3479901a153a4a89ff58ca7898b550/chunk-001.nq.gz",
+      "dep": "dep/50de0961ad3479901a153a4a89ff58ca7898b550.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
